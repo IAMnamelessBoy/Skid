@@ -5,8 +5,6 @@ import asyncio
 import os
 import requests
 import json
-import jishaku
-import traceback
 
 intents=discord.Intents.all()
 
